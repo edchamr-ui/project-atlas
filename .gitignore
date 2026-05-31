@@ -1,1 +1,17 @@
+# Secret files
 web/secret.txt
+
+# Log files
+*.log
+
+# Backup archives
+*.tar.gz
+*.zip
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+
+# Python cache
+__pycache__/
+*.pycweb/secret.txt
