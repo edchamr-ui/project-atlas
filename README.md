@@ -75,5 +75,5 @@ project-atlas/
 ## Author
 
 Ed Chamr.
-Aspiring Cloud / DevOps Engineer
+ Cloud / DevOps Engineer
 CCNA | AWS Solutions Architect Associate |Google Cybersecurity Certificate

@@ -1,17 +1,19 @@
-# Secret files
-web/secret.txt
+# SSH Keys
+*.pem
 
-# Log files
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/.terraform.lock.hcl
+terraform/terraform.tfvars
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
 *.log
 
-# Backup archives
-*.tar.gz
-*.zip
-
-# Terraform state
-*.tfstate
-*.tfstate.*
-
-# Python cache
-__pycache__/
-*.pycweb/secret.txt
+#secret files
+web/secret.txt
